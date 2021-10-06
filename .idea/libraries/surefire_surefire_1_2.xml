@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="surefire:surefire:1.2" type="repository">
+    <properties maven-id="surefire:surefire:1.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/surefire/surefire/1.2/surefire-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
